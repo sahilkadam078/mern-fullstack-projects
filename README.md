@@ -1,70 +1,62 @@
-# Major Projects
+# 💼 Major Projects – Full-Stack Development Portfolio
 
-This repository contains my **major academic and personal projects** developed during my **B.Sc. Computer Science** journey.
+This repository contains multiple full-stack and web development projects built as part of my learning journey.
 
-Each project is organized in a **separate folder** with its own structure, dependencies, and implementation logic.  
-The focus of this repository is on **real-world application development, clean code organization, and full-stack fundamentals**.
-
----
-
-## Repository Structure
-
-MajorProjects
-│
-├── AirBnb_Clone
-│
-├── ChatGpt_Clone
-│
-└── README.md
-
+Each project focuses on real-world implementation of backend systems, authentication, database management, and deployment.
 
 ---
 
-## Project 1: AirBnb Clone
+## 📂 Projects Included
 
-### Description
-A full-stack web application that demonstrates backend development, database modeling, and dynamic server-side rendering inspired by real-world rental platforms.
+### 🏡 Wanderlust
+Airbnb-style full-stack web application.
 
-### Tech Stack
+- Node.js + Express
+- MongoDB Atlas
+- Passport Authentication
+- Cloudinary Image Upload
+- Deployed on Railway
+
+Folder: `wanderlust/`
+
+---
+
+### 🤖 ChatGPT Clone
+A project focused on frontend + API integration concepts.
+
+Folder: `ChatGpt_Clone/`
+
+---
+
+## 🎯 Purpose of This Repository
+
+- Practice real-world backend architecture
+- Understand MVC design pattern
+- Implement authentication and authorization
+- Learn deployment and production configuration
+- Build portfolio-ready projects
+
+---
+
+## 🛠 Technologies Used Across Projects
+
+- JavaScript
 - Node.js
-- Express.js
-- MongoDB (Mongoose)
-- EJS
-- HTML, CSS, JavaScript
-
-### Key Concepts Implemented
-- MVC-style project structure
-- Dynamic routing and views
-- Database schema design
-- Server-side rendering
-- Scalable folder organization
+- Express
+- MongoDB
+- REST APIs
+- Cloud Deployment Platforms
 
 ---
 
-## Project 2: ChatGPT Clone
+## 🚀 Goal
 
-### Description
-A server-rendered chat-style web application built to understand request–response flow, routing, and backend–frontend integration.
-
-### Tech Stack
-- Node.js
-- Express.js
-- EJS
-- HTML, CSS, JavaScript
-
-### Key Concepts Implemented
-- Express routing
-- Server-rendered UI
-- Clean separation of logic and views
-- Basic chat interface handling
+Continuously build, improve, and deploy scalable web applications to strengthen full-stack development skills.
 
 ---
 
-## Purpose of This Repository
+## 👨‍💻 Author
 
-- To showcase **major projects** in a single place
-- To demonstrate **project structuring and Git workflow**
-- To apply **backend and frontend concepts together**
-- To serve as a **portfolio reference** for internships and placements
-
----
+Sahil Kadam  
+BSc Computer Science  
+Focused on Full-Stack Development
