@@ -2,7 +2,7 @@
 
 A simple, clean and responsive **Weather Application** built with React. Search for any city and get real-time weather information with a beautiful card UI.
 
-Live Link : https://dreamy-pothos-16b309.netlify.app/
+Live Link : https://weather-app-nacn.onrender.com/
 
 ## ✨ Features
 
