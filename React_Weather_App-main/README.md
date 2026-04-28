@@ -23,7 +23,7 @@ Live Link : https://dreamy-pothos-16b309.netlify.app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/K-Pratzz/React_Weather_App.git
+   git clone https://github.com/sahilkadam078/mern-fullstack-projects/React_Weather_App.git
    cd React_Weather_App
    ```
 
