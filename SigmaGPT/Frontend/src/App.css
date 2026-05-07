@@ -1,0 +1,36 @@
+* {
+    color: var(--text-primary);
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+
+:root[data-theme="dark"] {
+    --bg-main: #212121;
+    --bg-panel: #171717;
+    --bg-elevated: #323232;
+    --bg-muted: rgba(255, 255, 255, 0.05);
+    --text-primary: #ececec;
+    --text-secondary: #b4b4b4;
+    --border: rgba(255, 255, 255, 0.4);
+}
+
+:root[data-theme="light"] {
+    --bg-main: #f3f4f6;
+    --bg-panel: #ffffff;
+    --bg-elevated: #e5e7eb;
+    --bg-muted: #e5e7eb;
+    --text-primary: #111827;
+    --text-secondary: #4b5563;
+    --border: rgba(17, 24, 39, 0.25);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-main);
+}
+
+.app {
+    background-color: var(--bg-main);
+    display: flex;
+}
